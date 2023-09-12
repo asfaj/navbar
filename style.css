@@ -1,0 +1,19 @@
+h1 {
+    border: 2px solid red;
+}
+img {
+    border: 2px solid red;
+}
+div {
+    border: 2px solid green;
+}
+li {
+    display:inline;
+    border: 2px solid red;
+    padding-left: 50px;
+    
+}
+ul {
+    margin-left: 150px;
+    margin-top: 300;
+}
